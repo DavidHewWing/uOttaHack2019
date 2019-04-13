@@ -1,1 +1,3 @@
-# uOttaHack2019
+# SafeChat
+
+Platform allowing many safe online experiences.
